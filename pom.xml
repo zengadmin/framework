@@ -24,7 +24,7 @@
     <mybatisplus.version>2.2.0</mybatisplus.version>
     <lombok.version>1.18.4</lombok.version>
     <commons.lang.version>3.8.1</commons.lang.version>
-    <hutool.version>4.1.1</hutool.version>
+    <hutool.version>4.1.12</hutool.version>
     <commons.beanutils>1.9.3</commons.beanutils>
     <commons.lang>2.6</commons.lang>
     <commons.io>2.5</commons.io>
