@@ -27,7 +27,7 @@
     <hutool.version>4.1.1</hutool.version>
     <commons.beanutils>1.9.3</commons.beanutils>
     <commons.lang>2.6</commons.lang>
-    <commons.io>2.5</commons.io>
+    <commons.io>2.7</commons.io>
     <swagger.version>2.7.0</swagger.version>
   </properties>
 
